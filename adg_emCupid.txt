@@ -1,6 +1,6 @@
 ﻿! Title: ADG_emCupid
 ! Description: 只对于AdGrard中文过滤器、EasyList中国补充（仅PC，移动端未测试），adg home不适用绝大部分规则
-! TimeUpdated: 2026-01-21T13:11:37+08:00
+! TimeUpdated: 2026-01-21T16:48:46+08:00
 
 !-------全局&正则-------
 ~aliyundrive.com,~qq.com##div[style*="z-index"][style*="99999"] iframe
@@ -280,6 +280,7 @@ chinaz.com##.ToolsTxtWrap,a[href^="https://app.chinaz.com/click/"],.single-mode:
 ||hdslb.com/bfs/static/jinkela/space/*.js$replace=/>=128/<0/
 423down.com##.entry:nth-child(2) > p:first-child > a,a[href^="http://www.zuhaogou.top"],a[href="http://jike168.top/"],li:has(.cat:contains(423Down))
 423down.com##.item:has(a:contains(置顶)),img[src$="D7/img/new.png"],img[src$="D7/img/new.png"]+a
+423down.com#?#li:has(.cat:contains(423Down)),.item:has(a:contains(置顶))
 fanyi.baidu.com##[class^="app-side"],#transOtherRight,#app-read,.app-guide
 ||mimg.127.net/p/*/js/p0.js$replace=/display:1\,icon:"yanxuan"/display:0\,icon:"yanxuan"/
 !↑
