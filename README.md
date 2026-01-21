@@ -3,7 +3,7 @@ https://github.com/ilvjyw/adg_cn
 
 ## 规则：  
 GitHub：[https://raw.githubusercontent.com/ilvjyw/adg_cn/master/adg_emCupid.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ilvjyw/adg_cn/master/adg_emCupid.txt "adg_emCupid")  
-jsDelivr：[https://cdn.jsdelivr.net/gh/emCupid/adg_cn/adg_emCupid.txt](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ilvjyw/adg_cn/adg_emCupid.txt "adg_emCupid")  
+jsDelivr：[https://cdn.jsdelivr.net/gh/ilvjyw/adg_cn/adg_emCupid.txt](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ilvjyw/adg_cn/adg_emCupid.txt "adg_emCupid")  
 
 ## 脚本：  
 【**朝朝暮暮plus**】一些浏览器增强功能及辅助移除广告   
